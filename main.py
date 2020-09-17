@@ -1,5 +1,12 @@
 import discord
-# Discord kütüphanesinden komut bölümü uygulama içine alındı.
+import os
+import random
+import discord
+import asyncio
+import aiohttp
+import json
+from discord import Game
+from discord.ext.commands import Bot
 from discord.ext import commands
 
 # Komut özelliğinden yararlanılarak Discord botunun önismi ayarlandı.
