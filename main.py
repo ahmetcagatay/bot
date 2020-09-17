@@ -11,9 +11,9 @@ async def on_ready(): #Bot hazır olduğunda yapılacak işlemler için fonksiyo
     await bot.change_presence(activity=discord.Game(name="!yardım"))
 
 
-to = "NzE0MjA1ODc0NzA0NDgyMzc1"
-ke = ".XsrSDQ."
-n = "xYJQ9jwMnniLzktRKX5HiD487vc"
+to = "NzU0NzA4NjUyNzA2"
+ke = "NzU4NzI4.X14rNA.SyDYn8-"
+n = "P5bHsWb_kYyDvh5QVtcQ"
 
 
 bot.run(to+ke+n)
